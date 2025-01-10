@@ -7,7 +7,7 @@ app.config['SECRET_KEY'] = '90d29299e6c6ffddeba3ac23230e125c'
 
 # dummy data
 posts = [
-    {'author': 'Frank Edward',
+    {'author': 'Frank Edwardgggggg',
      'title': 'First blog post',
      'content': 'This is my very first post',
      'date': 'Oct 4,2029'
