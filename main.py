@@ -35,6 +35,12 @@ posts = [
      'date': 'Oct 9,2029'
      },
 {'author': 'Mike Ben',
+     'titleyyhsjssj': 'Second Blog Post',
+     'content': 'Thihhhs is my very second post',
+     'date': 'Oct 9,2029'
+     },
+
+{'author': 'Mike Ben',
      'title': 'Second Blog Post',
      'content': 'This is my very second post',
      'date': 'Oct 9,2029'
