@@ -33,10 +33,10 @@ posts = [
 {'author': 'Mike Ben',
      'titleyyhsjssj': 'Second Blog Post',
      'content': 'Thihhhs is my very secongggsd post',
-     'date': 'Oct 9,2029'
+     'date': 'Oct 9,2029666'
      },
 
-{'author': 'Mike Ben',
+{'author': 'Mike Beeeen',
      'title': 'Second Blog tisbgdfd Post',
      'content': 'This is my very second post',
      'date': 'Oct 9,2029'
