@@ -5,40 +5,6 @@ from flask import Flask, render_template, url_for, flash, redirect
 app = Flask(__name__)
 app.config['SECRET_KEY'] = '90d29299e6c6ffddeba3ac23230e125c'
 
-# dummy data
-posts = [
-    {'author': 'Frank Edwardgggggg',
-     'title': 'First blog post',
-     'content': 'This is my very first post',
-     'date': 'Oct 4,2029'
-     },
-    {'author': 'Mike Ben',
-     'title': 'Second Blog Post',
-     'content': 'This is my very second post',
-     'date': 'Oct 9,2029'
-     },
-    {'author': 'alice Ben',
-   
-    {'author': 'Mike Ben',
-     'title': 'Second Blog Post',
-     'content': 'This is my very second post',
-     'date': 'Oct 9,2029'
-     },
-   {'author': 'Mike Ben',
-     'title': 'Second Blog Post',
-     'content': 'This is my very second post',
-     'date': 'Oct 9,2029'
-     },
-
-{'author': 'Mike Ben',
-     'titleyyhsjssj': 'Second Blog Post',
-     'content': 'Thihhhs is my very secongggsd post',
-     'date': 'Oct 9,2029666'
-     },
-
-{'author': 'Mike Ben',
-     'title': 'Second Blog tisbgdfd Post',
-     'content': 'This is my very second post',
      'date': 'Oct 9,2029'
      },
     
