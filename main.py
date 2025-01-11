@@ -36,7 +36,7 @@ posts = [
      'date': 'Oct 9,2029666'
      },
 
-{'author': 'Mike Beeeen',
+{'author': 'Mike Ben',
      'title': 'Second Blog tisbgdfd Post',
      'content': 'This is my very second post',
      'date': 'Oct 9,2029'
