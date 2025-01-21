@@ -1,4 +1,4 @@
-list=[1,3,4,5,6,7,8,9,10,11,12,13,2]
+list=[1,3,4,5,6,7,8,9,2]
 from flask import Flask, render_template, url_for, flash, redirect
 #from forms import RegistrationForm, LoginForm
 
