@@ -7,7 +7,7 @@ app.config['SECRET_KEY'] = '90d29299e6c6ffddeba3ac23230e125c'
 
      'date': 'Oct 9,2029'
      },
-    
+    date': 'Oct 9,2029'
 ]
 
 
